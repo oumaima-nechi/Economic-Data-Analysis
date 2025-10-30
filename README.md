@@ -5,8 +5,7 @@
 ## 🧭 Project Overview  
 This project explores major U.S. economic indicators using the **Federal Reserve Economic Data (FRED)** API.  
 It retrieves, processes, and visualizes real-time data to identify trends in **GDP**, **inflation**, **unemployment**, and more.  
-The workflow is inspired by [RobikSCube’s Kaggle notebook](https://www.kaggle.com/code/robikscube/economic-analysis-with-pandas-youtube-tutorial/notebook),  
-and reproduces similar analytical results with personal extensions and visualization improvements.
+
 
 ---
 
@@ -40,5 +39,3 @@ The notebook includes:
 
 Understanding macroeconomic indicators helps explain market behavior, investment risks, and policy impacts.
 This notebook provides a reproducible framework for analyzing such indicators with real-time data and modern visualization tools.
-git clone https://github.com/yourusername/economic-data-analysis.git
-cd economic-data-analysis
